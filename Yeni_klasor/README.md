@@ -10,9 +10,9 @@
 
 | Öğrenci No | Adı Soyadı           | Bölüm          		   | Proje Grup No | Grup Üyelerinin Github Profilleri                 |
 |------------|----------------------|--------------------------|---------------|---------------------------------------------------|
-| 1200505803 | Harun Özdemir		| Yazılım Mühendisliği     | PROJE_8       | [Github](https://github.com/hrnozdm)     	   |
-| 1200505065 | Yusuf  Balık   		| Yazılım Mühendisliği     | PROJE_8       | [Github](https://github.com/Yusuf4916)    	   |
-| 1200505072 | Bilal Can Bal  | Yazılım Mühendisliği     | PROJE_8       | [Github](https://github.com/BilalCanBal)   	   |
+| 1200505803 | Harun Özdemir		| Yazılım Mühendisliği     | PROJE_7       | [Github](https://github.com/hrnozdm)     	   |
+| 1200505065 | Yusuf  Balık   		| Yazılım Mühendisliği     | PROJE_7       | [Github](https://github.com/Yusuf4916)    	   |
+| 1200505072 | Bilal Can Bal  | Yazılım Mühendisliği     | PROJE_7       | [Github](https://github.com/BilalCanBal)   	   |
 
 ---
 
